@@ -1,4 +1,5 @@
-Fashion Market & Sales Analysis — Power BI Dashboard
+# Fashion Market & Sales Analysis — Power BI Dashboard
+
 An interactive Power BI dashboard that analyzes marketing campaign performance and sales outcomes across a fashion retail portfolio. The dashboard integrates marketing spend and sales data to evaluate ROI, surface underperforming campaigns, and support budget-reallocation decisions.
 Author: Khoa Tran
 Tools: Power BI, DAX
