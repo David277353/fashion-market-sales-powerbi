@@ -5,7 +5,8 @@ Author: Khoa Tran
 Tools: Power BI, DAX
 Period: March 2026 – April 2026
 File: Khoa Tran Power Bi - Project 3.pbix
-Overview
+
+## Overview
 The dashboard turns raw marketing and sales data into a single interactive view that helps decision-makers answer three questions:
 
 Which campaigns are actually driving revenue and profit?
@@ -20,13 +21,13 @@ Profit — gross profit and margin
 ROI — return on marketing spend per campaign
 Campaign Contribution % — share of total revenue from each campaign
 
-Key Findings
+## Key Findings
 
 Top-performing campaigns contributed 30–35% of total revenue.
 Several campaigns operated at ROI < 1, meaning spend exceeded the revenue they generated.
 An estimated ~20% of marketing budget could be reclaimed by reallocating spend away from underperforming campaigns toward proven winners.
 
-Methodology
+## Methodology
 A Design Thinking approach was used to frame the analysis around marketing and sales decision-makers. Marketing spend was linked directly to downstream sales outcomes so campaigns could be judged on financial impact, not just engagement metrics. DAX measures were built for revenue, profit, ROI, and campaign contribution, and the visuals were structured to let users drill from market → campaign → SKU.
 Recommendations Delivered
 
@@ -34,7 +35,7 @@ Reallocate budget from campaigns with ROI < 1 toward the top 30–35% revenue dr
 Establish ROI thresholds for ongoing campaign approval.
 Monitor SKU-level performance to catch underperforming products earlier in the campaign cycle.
 
-Status & Limitations
+## Status & Limitations
 Status: v1 — learning project, actively iterating.
 This dashboard is a portfolio piece built to practice integrating marketing and sales data in Power BI. It's functional and the core analysis holds, but a few areas are still on the improvement list:
 
