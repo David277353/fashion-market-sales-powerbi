@@ -67,3 +67,4 @@ Open it in Power BI Desktop.
 
 Contact
 Khoa Tran — ktran4618@gmail.com
+Linkedin - linkedin.com/in/khoatran-da
