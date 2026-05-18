@@ -10,8 +10,10 @@ An interactive Power BI dashboard that analyzes marketing campaign performance a
 **Power BI**
 **DAX**
 
-Period: March 2026 – April 2026
-File: Khoa Tran Power Bi - Project 3.pbix
+## Dashboard preview
+**Period: March 2026 – April 2026**
+**File: Khoa Tran Power Bi - Project 3.pbix**
+**[Dashboard preview](dashboard-preview.png)**
 
 ## Overview
 The dashboard turns raw marketing and sales data into a single interactive view that helps decision-makers answer three questions:
