@@ -1,5 +1,7 @@
 # 👗 Fashion Market & Sales Analysis — Power BI Dashboard
 An interactive 5-page Power BI dashboard analyzing marketing campaign performance and sales outcomes across a Vietnamese fashion retail portfolio. The dashboard integrates marketing spend and sales data to evaluate ROI, surface underperforming campaigns, and support budget-reallocation decisions.
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d744c721-aa71-4013-bf31-0681a6174792" />
+
 
 📌 Dataset sourced from a Vietnamese fashion retail market. Some field labels appear in Vietnamese — all KPIs and findings are documented in English.
 
