@@ -66,6 +66,18 @@ Each analysis page paired with a dedicated recommendations page — translating 
 Visuals structured for drill-down navigation: market → campaign → SKU level
 Marketing funnel view tracks drop-off from impressions → clicks → conversions → orders
 
+# 📸 Dashboard Preview
+# General Overview
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/65fd3211-2243-46a5-a3dc-5c3ce6ede95c" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/296a23c0-b813-4054-afd1-c7ffa5bfd278" />
+
+# Campaign Analysis
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/6e83b427-69dd-46c1-9420-296a10952e07" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/00c8ec3f-1f15-4abc-b3f0-04ef932e8415" />
+
+# Product Insight
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/fe1cff0b-5a05-41c2-9973-e78122b50fe5" />
+
 # 🚀 How to Open
 
 Install Power BI Desktop (free)
