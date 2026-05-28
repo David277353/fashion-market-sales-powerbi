@@ -15,7 +15,7 @@ How should spend be reallocated to improve overall ROI?
 # 📊 Dashboard Structure (5 Pages)
 PagePurposeGeneral OverviewTop-level KPIs — total revenue, ROAS, budget utilization, top 5 campaigns by spend and ROASrcm - General OverviewRecommendation layer: translates high-level findings into specific reallocation decisionsCampaign AnalysisMarketing funnel, campaign details table, CPM vs CPC vs CP/KQ breakdown by campaignrcm - Campaign AnalysisRecommendation layer: flags underperforming campaigns and surfaces optimization actionsProduct InsightTop 10 products by revenue, SKU-level ROAS ratings, total revenue by city and category
 
-# 💡 Each analysis page is paired with a dedicated Recommendations view that translates findings into specific budget and campaign decisions — not just data, but action.
+💡 Each analysis page is paired with a dedicated Recommendations view that translates findings into specific budget and campaign decisions — not just data, but action.
 
 # 🔢 Key Numbers
 Total Revenue: 3.02B
